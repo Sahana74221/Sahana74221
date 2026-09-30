@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sana
+# 👋 Hi, I'm Sahana
 
 ### 🚀 Software Engineer | Full Stack Developer
 
